@@ -28,7 +28,7 @@ sudo apt install nmap
 pip3 install python-nmap requests
 
 # Clone & Run
-git clone https://github.com/sigma-cyber-ghost/sigma-scanner.git
+git clone https://github.com/sigma-cyber-ghost/Sigma-Scanner-.git
 cd sigma-scanner
 sudo python3 sigma_scanner.py
 
